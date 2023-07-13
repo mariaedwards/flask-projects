@@ -19,3 +19,4 @@ pip install -r requirements.txt
 ## Polling application with Flask
 
 [tutorial](https://www.youtube.com/watch?v=L5pszofCkCw&list=WL&index=7)
+Very basic flask app

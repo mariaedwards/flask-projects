@@ -1,0 +1,7 @@
+pid,poll,option1,option2,option3,votes1,votes2,votes3
+1,Poll 1,A,B,C,0,0,0
+2,Poll 2,A,B,C,0,0,0
+3,Poll 3,A,B,C,0,0,0
+4,Poll 4,A,B,C,0,0,0
+5,Poll 5,A,B,C,0,0,0
+6,which is the best be lang?,py,node,java,0,1,0
